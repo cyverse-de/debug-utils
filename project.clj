@@ -1,4 +1,4 @@
-(defproject org.cyverse/debug-utils "2.8.1-SNAPSHOT"
+(defproject org.cyverse/debug-utils "2.8.1"
   :description "Common Debugging Utilities for Clojure Projects"
   :url "https://github.com/cyverse-de/debug-utils"
   :license {:name "BSD"
