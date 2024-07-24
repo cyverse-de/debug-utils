@@ -5,6 +5,8 @@
             :url "http://iplantcollaborative.org/sites/default/files/iPLANT-LICENSE.txt"}
   :deploy-repositories [["releases" :clojars]
                         ["snapshots" :clojars]]
-  :plugins [[test2junit "1.2.2"]]
-  :dependencies [[org.clojure/clojure "1.8.0"]
-                 [org.clojure/tools.logging "0.3.1"]])
+  :plugins [[jonase/eastwood "1.4.3"]
+            [lein-ancient "0.7.0"]
+            [test2junit "1.4.4"]]
+  :dependencies [[org.clojure/clojure "1.11.3"]
+                 [org.clojure/tools.logging "1.3.0"]])
