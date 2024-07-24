@@ -1,8 +1,8 @@
-(defproject org.cyverse/debug-utils "2.9.0-SNAPSHOT"
+(defproject org.cyverse/debug-utils "2.9.0"
   :description "Common Debugging Utilities for Clojure Projects"
   :url "https://github.com/cyverse-de/debug-utils"
   :license {:name "BSD"
-            :url "http://iplantcollaborative.org/sites/default/files/iPLANT-LICENSE.txt"}
+            :url "https://cyverse.org/license"}
   :deploy-repositories [["releases" :clojars]
                         ["snapshots" :clojars]]
   :plugins [[jonase/eastwood "1.4.3"]
