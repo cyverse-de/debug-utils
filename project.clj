@@ -9,4 +9,4 @@
             [lein-ancient "1.0.0"]
             [test2junit "1.4.4"]]
   :dependencies [[org.clojure/clojure "1.12.5"]
-                 [org.clojure/tools.logging "1.3.0"]])
+                 [org.clojure/tools.logging "1.3.1"]])
